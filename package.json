@@ -1,0 +1,42 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "@videojs/http-streaming": "^1.10.6",
+    "dashjs": "^3.0.3",
+    "video.js": "git+https://github.com/Bigcommand/video.js.git",
+    "videojs-contrib-dash": "git+https://github.com/Bigcommand/videojs-contrib-dash.git",
+    "videojs-contrib-hls": "^5.15.0",
+    "videojs-contrib-quality-levels": "2.0.3",
+    "videojs-hls-quality-selector": "file:../videojs-hls-quality-selector"
+  },
+  "deprecated": false,
+  "description": "Video Player component for Vue2",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-CqVvhy2QSDRxXfaHn029Cpz+mbV2gubIcdZE5Uu1e7f0ZfpdqpuqnSYyE50nUXzM3zfa7TaYOARpLsY3FdLtOQ==",
+    "shasum": "7009b06dcec439b3ea645183217d314cbf0d37fd",
+    "tarball": "https://registry.npmjs.org/vue-video-player/-/vue-video-player-3.1.4.tgz"
+  },
+  "keywords": [
+    "vue videojs",
+    "vue-video-player",
+    "vue.js player",
+    "vue.js video",
+    "vue.js video player"
+  ],
+  "license": "GPL",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "surmon",
+      "email": "surmon@foxmail.com"
+    }
+  ],
+  "name": "vue-video-player",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.1.4"
+}
