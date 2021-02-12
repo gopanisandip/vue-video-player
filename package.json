@@ -7,7 +7,7 @@
     "videojs-contrib-dash": "git+https://github.com/Bigcommand/videojs-contrib-dash.git",
     "videojs-contrib-hls": "^5.15.0",
     "videojs-contrib-quality-levels": "2.0.3",
-    "videojs-hls-quality-selector": "file:../videojs-hls-quality-selector"
+    "videojs-hls-quality-selector": "git+https://github.com/gopanisandip/videojs-hls-quality-selector.git"
   },
   "deprecated": false,
   "description": "Video Player component for Vue2",
